@@ -35,10 +35,8 @@ I'm Allex Magno Andrade 🇧🇷
 ### Contact Me
 <a href="mailto:ct.allex@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div>
-![Snake animation](https://github.com/MagnoA/MagnoA/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MagnoA/MagnoA/blob/output/github-contribution-grid-snake.gif)
  
-</div>
 <!--
 **MagnoA/MagnoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
